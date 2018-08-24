@@ -1,0 +1,2331 @@
+cscope 15 $HOME/Tresors/Backup/Programming/cracks               0000015117
+	@.stack-work/dist/x86_64-linux/Cabal-2.2.0.1/build/autogen/cabal_macros.h
+
+4 #iâdeà
+VERSION_üacks
+
+
+5 
+	#VERSION_üacks
+ "0.1.0.0"
+
+	)
+
+7 #iâdeà
+MIN_VERSION_üacks
+
+
+8 
+	#MIN_VERSION_üacks
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+9 (
+majÜ1
+) < 0 || \
+
+10 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 1 || \
+
+11 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð1 && (
+mšÜ
+è<ð0)
+
+	)
+
+15 #iâdeà
+VERSION_ba£
+
+
+16 
+	#VERSION_ba£
+ "4.11.1.0"
+
+	)
+
+18 #iâdeà
+MIN_VERSION_ba£
+
+
+19 
+	#MIN_VERSION_ba£
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+20 (
+majÜ1
+) < 4 || \
+
+21 (
+majÜ1
+è=ð4 && (
+majÜ2
+) < 11 || \
+
+22 (
+majÜ1
+è=ð4 && (
+majÜ2
+è=ð11 && (
+mšÜ
+è<ð1)
+
+	)
+
+26 #iâdeà
+VERSION_gloss
+
+
+27 
+	#VERSION_gloss
+ "1.12.0.0"
+
+	)
+
+29 #iâdeà
+MIN_VERSION_gloss
+
+
+30 
+	#MIN_VERSION_gloss
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+31 (
+majÜ1
+) < 1 || \
+
+32 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 12 || \
+
+33 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð12 && (
+mšÜ
+è<ð0)
+
+	)
+
+37 #iâdeà
+VERSION_¿ndom
+
+
+38 
+	#VERSION_¿ndom
+ "1.1"
+
+	)
+
+40 #iâdeà
+MIN_VERSION_¿ndom
+
+
+41 
+	#MIN_VERSION_¿ndom
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+42 (
+majÜ1
+) < 1 || \
+
+43 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 1 || \
+
+44 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð1 && (
+mšÜ
+è<ð0)
+
+	)
+
+48 #iâdeà
+TOOL_VERSION_®ex
+
+
+49 
+	#TOOL_VERSION_®ex
+ "3.2.3"
+
+	)
+
+51 #iâdeà
+MIN_TOOL_VERSION_®ex
+
+
+52 
+	#MIN_TOOL_VERSION_®ex
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+53 (
+majÜ1
+) < 3 || \
+
+54 (
+majÜ1
+è=ð3 && (
+majÜ2
+) < 2 || \
+
+55 (
+majÜ1
+è=ð3 && (
+majÜ2
+è=ð2 && (
+mšÜ
+è<ð3)
+
+	)
+
+59 #iâdeà
+TOOL_VERSION_gcc
+
+
+60 
+	#TOOL_VERSION_gcc
+ "7"
+
+	)
+
+62 #iâdeà
+MIN_TOOL_VERSION_gcc
+
+
+63 
+	#MIN_TOOL_VERSION_gcc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+64 (
+majÜ1
+) < 7 || \
+
+65 (
+majÜ1
+è=ð7 && (
+majÜ2
+) < 0 || \
+
+66 (
+majÜ1
+è=ð7 && (
+majÜ2
+è=ð0 && (
+mšÜ
+è<ð0)
+
+	)
+
+70 #iâdeà
+TOOL_VERSION_ghc
+
+
+71 
+	#TOOL_VERSION_ghc
+ "8.4.3"
+
+	)
+
+73 #iâdeà
+MIN_TOOL_VERSION_ghc
+
+
+74 
+	#MIN_TOOL_VERSION_ghc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+75 (
+majÜ1
+) < 8 || \
+
+76 (
+majÜ1
+è=ð8 && (
+majÜ2
+) < 4 || \
+
+77 (
+majÜ1
+è=ð8 && (
+majÜ2
+è=ð4 && (
+mšÜ
+è<ð3)
+
+	)
+
+81 #iâdeà
+TOOL_VERSION_ghc_pkg
+
+
+82 
+	#TOOL_VERSION_ghc_pkg
+ "8.4.3"
+
+	)
+
+84 #iâdeà
+MIN_TOOL_VERSION_ghc_pkg
+
+
+85 
+	#MIN_TOOL_VERSION_ghc_pkg
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+86 (
+majÜ1
+) < 8 || \
+
+87 (
+majÜ1
+è=ð8 && (
+majÜ2
+) < 4 || \
+
+88 (
+majÜ1
+è=ð8 && (
+majÜ2
+è=ð4 && (
+mšÜ
+è<ð3)
+
+	)
+
+92 #iâdeà
+TOOL_VERSION_haddock
+
+
+93 
+	#TOOL_VERSION_haddock
+ "2.20.0"
+
+	)
+
+95 #iâdeà
+MIN_TOOL_VERSION_haddock
+
+
+96 
+	#MIN_TOOL_VERSION_haddock
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+97 (
+majÜ1
+) < 2 || \
+
+98 (
+majÜ1
+è=ð2 && (
+majÜ2
+) < 20 || \
+
+99 (
+majÜ1
+è=ð2 && (
+majÜ2
+è=ð20 && (
+mšÜ
+è<ð0)
+
+	)
+
+103 #iâdeà
+TOOL_VERSION_h­py
+
+
+104 
+	#TOOL_VERSION_h­py
+ "1.19.8"
+
+	)
+
+106 #iâdeà
+MIN_TOOL_VERSION_h­py
+
+
+107 
+	#MIN_TOOL_VERSION_h­py
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+108 (
+majÜ1
+) < 1 || \
+
+109 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 19 || \
+
+110 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð19 && (
+mšÜ
+è<ð8)
+
+	)
+
+114 #iâdeà
+TOOL_VERSION_hpc
+
+
+115 
+	#TOOL_VERSION_hpc
+ "0.67"
+
+	)
+
+117 #iâdeà
+MIN_TOOL_VERSION_hpc
+
+
+118 
+	#MIN_TOOL_VERSION_hpc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+119 (
+majÜ1
+) < 0 || \
+
+120 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 67 || \
+
+121 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð67 && (
+mšÜ
+è<ð0)
+
+	)
+
+125 #iâdeà
+TOOL_VERSION_hsc2hs
+
+
+126 
+	#TOOL_VERSION_hsc2hs
+ "0.68.3"
+
+	)
+
+128 #iâdeà
+MIN_TOOL_VERSION_hsc2hs
+
+
+129 
+	#MIN_TOOL_VERSION_hsc2hs
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+130 (
+majÜ1
+) < 0 || \
+
+131 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 68 || \
+
+132 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð68 && (
+mšÜ
+è<ð3)
+
+	)
+
+136 #iâdeà
+TOOL_VERSION_hscÞour
+
+
+137 
+	#TOOL_VERSION_hscÞour
+ "1.24"
+
+	)
+
+139 #iâdeà
+MIN_TOOL_VERSION_hscÞour
+
+
+140 
+	#MIN_TOOL_VERSION_hscÞour
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+141 (
+majÜ1
+) < 1 || \
+
+142 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 24 || \
+
+143 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð24 && (
+mšÜ
+è<ð0)
+
+	)
+
+147 #iâdeà
+TOOL_VERSION_pkg_cÚfig
+
+
+148 
+	#TOOL_VERSION_pkg_cÚfig
+ "0.29.1"
+
+	)
+
+150 #iâdeà
+MIN_TOOL_VERSION_pkg_cÚfig
+
+
+151 
+	#MIN_TOOL_VERSION_pkg_cÚfig
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+152 (
+majÜ1
+) < 0 || \
+
+153 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 29 || \
+
+154 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð29 && (
+mšÜ
+è<ð1)
+
+	)
+
+158 #iâdeà
+TOOL_VERSION_runghc
+
+
+159 
+	#TOOL_VERSION_runghc
+ "8.4.3"
+
+	)
+
+161 #iâdeà
+MIN_TOOL_VERSION_runghc
+
+
+162 
+	#MIN_TOOL_VERSION_runghc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+163 (
+majÜ1
+) < 8 || \
+
+164 (
+majÜ1
+è=ð8 && (
+majÜ2
+) < 4 || \
+
+165 (
+majÜ1
+è=ð8 && (
+majÜ2
+è=ð4 && (
+mšÜ
+è<ð3)
+
+	)
+
+169 #iâdeà
+TOOL_VERSION_¡r
+
+
+170 
+	#TOOL_VERSION_¡r
+ "2.30"
+
+	)
+
+172 #iâdeà
+MIN_TOOL_VERSION_¡r
+
+
+173 
+	#MIN_TOOL_VERSION_¡r
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+174 (
+majÜ1
+) < 2 || \
+
+175 (
+majÜ1
+è=ð2 && (
+majÜ2
+) < 30 || \
+
+176 (
+majÜ1
+è=ð2 && (
+majÜ2
+è=ð30 && (
+mšÜ
+è<ð0)
+
+	)
+
+179 #iâdeà
+CURRENT_PACKAGE_KEY
+
+
+180 
+	#CURRENT_PACKAGE_KEY
+ "üacks-0.1.0.0-65aSUHwBENc8sENLVFqjQM"
+
+	)
+
+182 #iâdeà
+CURRENT_COMPONENT_ID
+
+
+183 
+	#CURRENT_COMPONENT_ID
+ "üacks-0.1.0.0-65aSUHwBENc8sENLVFqjQM"
+
+	)
+
+185 #iâdeà
+CURRENT_PACKAGE_VERSION
+
+
+186 
+	#CURRENT_PACKAGE_VERSION
+ "0.1.0.0"
+
+	)
+
+	@.stack-work/dist/x86_64-linux/Cabal-2.2.0.1/build/cracks-exe/autogen/cabal_macros.h
+
+4 #iâdeà
+VERSION_üacks
+
+
+5 
+	#VERSION_üacks
+ "0.1.0.0"
+
+	)
+
+7 #iâdeà
+MIN_VERSION_üacks
+
+
+8 
+	#MIN_VERSION_üacks
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+9 (
+majÜ1
+) < 0 || \
+
+10 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 1 || \
+
+11 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð1 && (
+mšÜ
+è<ð0)
+
+	)
+
+15 #iâdeà
+VERSION_ba£
+
+
+16 
+	#VERSION_ba£
+ "4.11.1.0"
+
+	)
+
+18 #iâdeà
+MIN_VERSION_ba£
+
+
+19 
+	#MIN_VERSION_ba£
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+20 (
+majÜ1
+) < 4 || \
+
+21 (
+majÜ1
+è=ð4 && (
+majÜ2
+) < 11 || \
+
+22 (
+majÜ1
+è=ð4 && (
+majÜ2
+è=ð11 && (
+mšÜ
+è<ð1)
+
+	)
+
+26 #iâdeà
+VERSION_üacks
+
+
+27 
+	#VERSION_üacks
+ "0.1.0.0"
+
+	)
+
+29 #iâdeà
+MIN_VERSION_üacks
+
+
+30 
+	#MIN_VERSION_üacks
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+31 (
+majÜ1
+) < 0 || \
+
+32 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 1 || \
+
+33 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð1 && (
+mšÜ
+è<ð0)
+
+	)
+
+37 #iâdeà
+VERSION_gloss
+
+
+38 
+	#VERSION_gloss
+ "1.12.0.0"
+
+	)
+
+40 #iâdeà
+MIN_VERSION_gloss
+
+
+41 
+	#MIN_VERSION_gloss
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+42 (
+majÜ1
+) < 1 || \
+
+43 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 12 || \
+
+44 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð12 && (
+mšÜ
+è<ð0)
+
+	)
+
+48 #iâdeà
+VERSION_¿ndom
+
+
+49 
+	#VERSION_¿ndom
+ "1.1"
+
+	)
+
+51 #iâdeà
+MIN_VERSION_¿ndom
+
+
+52 
+	#MIN_VERSION_¿ndom
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+53 (
+majÜ1
+) < 1 || \
+
+54 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 1 || \
+
+55 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð1 && (
+mšÜ
+è<ð0)
+
+	)
+
+59 #iâdeà
+TOOL_VERSION_®ex
+
+
+60 
+	#TOOL_VERSION_®ex
+ "3.2.3"
+
+	)
+
+62 #iâdeà
+MIN_TOOL_VERSION_®ex
+
+
+63 
+	#MIN_TOOL_VERSION_®ex
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+64 (
+majÜ1
+) < 3 || \
+
+65 (
+majÜ1
+è=ð3 && (
+majÜ2
+) < 2 || \
+
+66 (
+majÜ1
+è=ð3 && (
+majÜ2
+è=ð2 && (
+mšÜ
+è<ð3)
+
+	)
+
+70 #iâdeà
+TOOL_VERSION_gcc
+
+
+71 
+	#TOOL_VERSION_gcc
+ "7"
+
+	)
+
+73 #iâdeà
+MIN_TOOL_VERSION_gcc
+
+
+74 
+	#MIN_TOOL_VERSION_gcc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+75 (
+majÜ1
+) < 7 || \
+
+76 (
+majÜ1
+è=ð7 && (
+majÜ2
+) < 0 || \
+
+77 (
+majÜ1
+è=ð7 && (
+majÜ2
+è=ð0 && (
+mšÜ
+è<ð0)
+
+	)
+
+81 #iâdeà
+TOOL_VERSION_ghc
+
+
+82 
+	#TOOL_VERSION_ghc
+ "8.4.3"
+
+	)
+
+84 #iâdeà
+MIN_TOOL_VERSION_ghc
+
+
+85 
+	#MIN_TOOL_VERSION_ghc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+86 (
+majÜ1
+) < 8 || \
+
+87 (
+majÜ1
+è=ð8 && (
+majÜ2
+) < 4 || \
+
+88 (
+majÜ1
+è=ð8 && (
+majÜ2
+è=ð4 && (
+mšÜ
+è<ð3)
+
+	)
+
+92 #iâdeà
+TOOL_VERSION_ghc_pkg
+
+
+93 
+	#TOOL_VERSION_ghc_pkg
+ "8.4.3"
+
+	)
+
+95 #iâdeà
+MIN_TOOL_VERSION_ghc_pkg
+
+
+96 
+	#MIN_TOOL_VERSION_ghc_pkg
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+97 (
+majÜ1
+) < 8 || \
+
+98 (
+majÜ1
+è=ð8 && (
+majÜ2
+) < 4 || \
+
+99 (
+majÜ1
+è=ð8 && (
+majÜ2
+è=ð4 && (
+mšÜ
+è<ð3)
+
+	)
+
+103 #iâdeà
+TOOL_VERSION_haddock
+
+
+104 
+	#TOOL_VERSION_haddock
+ "2.20.0"
+
+	)
+
+106 #iâdeà
+MIN_TOOL_VERSION_haddock
+
+
+107 
+	#MIN_TOOL_VERSION_haddock
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+108 (
+majÜ1
+) < 2 || \
+
+109 (
+majÜ1
+è=ð2 && (
+majÜ2
+) < 20 || \
+
+110 (
+majÜ1
+è=ð2 && (
+majÜ2
+è=ð20 && (
+mšÜ
+è<ð0)
+
+	)
+
+114 #iâdeà
+TOOL_VERSION_h­py
+
+
+115 
+	#TOOL_VERSION_h­py
+ "1.19.8"
+
+	)
+
+117 #iâdeà
+MIN_TOOL_VERSION_h­py
+
+
+118 
+	#MIN_TOOL_VERSION_h­py
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+119 (
+majÜ1
+) < 1 || \
+
+120 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 19 || \
+
+121 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð19 && (
+mšÜ
+è<ð8)
+
+	)
+
+125 #iâdeà
+TOOL_VERSION_hpc
+
+
+126 
+	#TOOL_VERSION_hpc
+ "0.67"
+
+	)
+
+128 #iâdeà
+MIN_TOOL_VERSION_hpc
+
+
+129 
+	#MIN_TOOL_VERSION_hpc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+130 (
+majÜ1
+) < 0 || \
+
+131 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 67 || \
+
+132 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð67 && (
+mšÜ
+è<ð0)
+
+	)
+
+136 #iâdeà
+TOOL_VERSION_hsc2hs
+
+
+137 
+	#TOOL_VERSION_hsc2hs
+ "0.68.3"
+
+	)
+
+139 #iâdeà
+MIN_TOOL_VERSION_hsc2hs
+
+
+140 
+	#MIN_TOOL_VERSION_hsc2hs
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+141 (
+majÜ1
+) < 0 || \
+
+142 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 68 || \
+
+143 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð68 && (
+mšÜ
+è<ð3)
+
+	)
+
+147 #iâdeà
+TOOL_VERSION_hscÞour
+
+
+148 
+	#TOOL_VERSION_hscÞour
+ "1.24"
+
+	)
+
+150 #iâdeà
+MIN_TOOL_VERSION_hscÞour
+
+
+151 
+	#MIN_TOOL_VERSION_hscÞour
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+152 (
+majÜ1
+) < 1 || \
+
+153 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 24 || \
+
+154 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð24 && (
+mšÜ
+è<ð0)
+
+	)
+
+158 #iâdeà
+TOOL_VERSION_pkg_cÚfig
+
+
+159 
+	#TOOL_VERSION_pkg_cÚfig
+ "0.29.1"
+
+	)
+
+161 #iâdeà
+MIN_TOOL_VERSION_pkg_cÚfig
+
+
+162 
+	#MIN_TOOL_VERSION_pkg_cÚfig
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+163 (
+majÜ1
+) < 0 || \
+
+164 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 29 || \
+
+165 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð29 && (
+mšÜ
+è<ð1)
+
+	)
+
+169 #iâdeà
+TOOL_VERSION_runghc
+
+
+170 
+	#TOOL_VERSION_runghc
+ "8.4.3"
+
+	)
+
+172 #iâdeà
+MIN_TOOL_VERSION_runghc
+
+
+173 
+	#MIN_TOOL_VERSION_runghc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+174 (
+majÜ1
+) < 8 || \
+
+175 (
+majÜ1
+è=ð8 && (
+majÜ2
+) < 4 || \
+
+176 (
+majÜ1
+è=ð8 && (
+majÜ2
+è=ð4 && (
+mšÜ
+è<ð3)
+
+	)
+
+180 #iâdeà
+TOOL_VERSION_¡r
+
+
+181 
+	#TOOL_VERSION_¡r
+ "2.30"
+
+	)
+
+183 #iâdeà
+MIN_TOOL_VERSION_¡r
+
+
+184 
+	#MIN_TOOL_VERSION_¡r
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+185 (
+majÜ1
+) < 2 || \
+
+186 (
+majÜ1
+è=ð2 && (
+majÜ2
+) < 30 || \
+
+187 (
+majÜ1
+è=ð2 && (
+majÜ2
+è=ð30 && (
+mšÜ
+è<ð0)
+
+	)
+
+190 #iâdeà
+CURRENT_COMPONENT_ID
+
+
+191 
+	#CURRENT_COMPONENT_ID
+ "üacks-0.1.0.0-1VjMStIFhqeKvfNFnBpc4w-üacks-exe"
+
+	)
+
+193 #iâdeà
+CURRENT_PACKAGE_VERSION
+
+
+194 
+	#CURRENT_PACKAGE_VERSION
+ "0.1.0.0"
+
+	)
+
+	@.stack-work/dist/x86_64-linux/Cabal-2.2.0.1/build/cracks-test/autogen/cabal_macros.h
+
+4 #iâdeà
+VERSION_üacks
+
+
+5 
+	#VERSION_üacks
+ "0.1.0.0"
+
+	)
+
+7 #iâdeà
+MIN_VERSION_üacks
+
+
+8 
+	#MIN_VERSION_üacks
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+9 (
+majÜ1
+) < 0 || \
+
+10 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 1 || \
+
+11 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð1 && (
+mšÜ
+è<ð0)
+
+	)
+
+15 #iâdeà
+VERSION_HUn™
+
+
+16 
+	#VERSION_HUn™
+ "1.6.0.0"
+
+	)
+
+18 #iâdeà
+MIN_VERSION_HUn™
+
+
+19 
+	#MIN_VERSION_HUn™
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+20 (
+majÜ1
+) < 1 || \
+
+21 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 6 || \
+
+22 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð6 && (
+mšÜ
+è<ð0)
+
+	)
+
+26 #iâdeà
+VERSION_ba£
+
+
+27 
+	#VERSION_ba£
+ "4.11.1.0"
+
+	)
+
+29 #iâdeà
+MIN_VERSION_ba£
+
+
+30 
+	#MIN_VERSION_ba£
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+31 (
+majÜ1
+) < 4 || \
+
+32 (
+majÜ1
+è=ð4 && (
+majÜ2
+) < 11 || \
+
+33 (
+majÜ1
+è=ð4 && (
+majÜ2
+è=ð11 && (
+mšÜ
+è<ð1)
+
+	)
+
+37 #iâdeà
+VERSION_üacks
+
+
+38 
+	#VERSION_üacks
+ "0.1.0.0"
+
+	)
+
+40 #iâdeà
+MIN_VERSION_üacks
+
+
+41 
+	#MIN_VERSION_üacks
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+42 (
+majÜ1
+) < 0 || \
+
+43 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 1 || \
+
+44 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð1 && (
+mšÜ
+è<ð0)
+
+	)
+
+48 #iâdeà
+VERSION_gloss
+
+
+49 
+	#VERSION_gloss
+ "1.12.0.0"
+
+	)
+
+51 #iâdeà
+MIN_VERSION_gloss
+
+
+52 
+	#MIN_VERSION_gloss
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+53 (
+majÜ1
+) < 1 || \
+
+54 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 12 || \
+
+55 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð12 && (
+mšÜ
+è<ð0)
+
+	)
+
+59 #iâdeà
+VERSION_¿ndom
+
+
+60 
+	#VERSION_¿ndom
+ "1.1"
+
+	)
+
+62 #iâdeà
+MIN_VERSION_¿ndom
+
+
+63 
+	#MIN_VERSION_¿ndom
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+64 (
+majÜ1
+) < 1 || \
+
+65 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 1 || \
+
+66 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð1 && (
+mšÜ
+è<ð0)
+
+	)
+
+70 #iâdeà
+TOOL_VERSION_®ex
+
+
+71 
+	#TOOL_VERSION_®ex
+ "3.2.3"
+
+	)
+
+73 #iâdeà
+MIN_TOOL_VERSION_®ex
+
+
+74 
+	#MIN_TOOL_VERSION_®ex
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+75 (
+majÜ1
+) < 3 || \
+
+76 (
+majÜ1
+è=ð3 && (
+majÜ2
+) < 2 || \
+
+77 (
+majÜ1
+è=ð3 && (
+majÜ2
+è=ð2 && (
+mšÜ
+è<ð3)
+
+	)
+
+81 #iâdeà
+TOOL_VERSION_gcc
+
+
+82 
+	#TOOL_VERSION_gcc
+ "7"
+
+	)
+
+84 #iâdeà
+MIN_TOOL_VERSION_gcc
+
+
+85 
+	#MIN_TOOL_VERSION_gcc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+86 (
+majÜ1
+) < 7 || \
+
+87 (
+majÜ1
+è=ð7 && (
+majÜ2
+) < 0 || \
+
+88 (
+majÜ1
+è=ð7 && (
+majÜ2
+è=ð0 && (
+mšÜ
+è<ð0)
+
+	)
+
+92 #iâdeà
+TOOL_VERSION_ghc
+
+
+93 
+	#TOOL_VERSION_ghc
+ "8.4.3"
+
+	)
+
+95 #iâdeà
+MIN_TOOL_VERSION_ghc
+
+
+96 
+	#MIN_TOOL_VERSION_ghc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+97 (
+majÜ1
+) < 8 || \
+
+98 (
+majÜ1
+è=ð8 && (
+majÜ2
+) < 4 || \
+
+99 (
+majÜ1
+è=ð8 && (
+majÜ2
+è=ð4 && (
+mšÜ
+è<ð3)
+
+	)
+
+103 #iâdeà
+TOOL_VERSION_ghc_pkg
+
+
+104 
+	#TOOL_VERSION_ghc_pkg
+ "8.4.3"
+
+	)
+
+106 #iâdeà
+MIN_TOOL_VERSION_ghc_pkg
+
+
+107 
+	#MIN_TOOL_VERSION_ghc_pkg
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+108 (
+majÜ1
+) < 8 || \
+
+109 (
+majÜ1
+è=ð8 && (
+majÜ2
+) < 4 || \
+
+110 (
+majÜ1
+è=ð8 && (
+majÜ2
+è=ð4 && (
+mšÜ
+è<ð3)
+
+	)
+
+114 #iâdeà
+TOOL_VERSION_haddock
+
+
+115 
+	#TOOL_VERSION_haddock
+ "2.20.0"
+
+	)
+
+117 #iâdeà
+MIN_TOOL_VERSION_haddock
+
+
+118 
+	#MIN_TOOL_VERSION_haddock
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+119 (
+majÜ1
+) < 2 || \
+
+120 (
+majÜ1
+è=ð2 && (
+majÜ2
+) < 20 || \
+
+121 (
+majÜ1
+è=ð2 && (
+majÜ2
+è=ð20 && (
+mšÜ
+è<ð0)
+
+	)
+
+125 #iâdeà
+TOOL_VERSION_h­py
+
+
+126 
+	#TOOL_VERSION_h­py
+ "1.19.8"
+
+	)
+
+128 #iâdeà
+MIN_TOOL_VERSION_h­py
+
+
+129 
+	#MIN_TOOL_VERSION_h­py
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+130 (
+majÜ1
+) < 1 || \
+
+131 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 19 || \
+
+132 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð19 && (
+mšÜ
+è<ð8)
+
+	)
+
+136 #iâdeà
+TOOL_VERSION_hpc
+
+
+137 
+	#TOOL_VERSION_hpc
+ "0.67"
+
+	)
+
+139 #iâdeà
+MIN_TOOL_VERSION_hpc
+
+
+140 
+	#MIN_TOOL_VERSION_hpc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+141 (
+majÜ1
+) < 0 || \
+
+142 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 67 || \
+
+143 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð67 && (
+mšÜ
+è<ð0)
+
+	)
+
+147 #iâdeà
+TOOL_VERSION_hsc2hs
+
+
+148 
+	#TOOL_VERSION_hsc2hs
+ "0.68.3"
+
+	)
+
+150 #iâdeà
+MIN_TOOL_VERSION_hsc2hs
+
+
+151 
+	#MIN_TOOL_VERSION_hsc2hs
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+152 (
+majÜ1
+) < 0 || \
+
+153 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 68 || \
+
+154 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð68 && (
+mšÜ
+è<ð3)
+
+	)
+
+158 #iâdeà
+TOOL_VERSION_hscÞour
+
+
+159 
+	#TOOL_VERSION_hscÞour
+ "1.24"
+
+	)
+
+161 #iâdeà
+MIN_TOOL_VERSION_hscÞour
+
+
+162 
+	#MIN_TOOL_VERSION_hscÞour
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+163 (
+majÜ1
+) < 1 || \
+
+164 (
+majÜ1
+è=ð1 && (
+majÜ2
+) < 24 || \
+
+165 (
+majÜ1
+è=ð1 && (
+majÜ2
+è=ð24 && (
+mšÜ
+è<ð0)
+
+	)
+
+169 #iâdeà
+TOOL_VERSION_pkg_cÚfig
+
+
+170 
+	#TOOL_VERSION_pkg_cÚfig
+ "0.29.1"
+
+	)
+
+172 #iâdeà
+MIN_TOOL_VERSION_pkg_cÚfig
+
+
+173 
+	#MIN_TOOL_VERSION_pkg_cÚfig
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+174 (
+majÜ1
+) < 0 || \
+
+175 (
+majÜ1
+è=ð0 && (
+majÜ2
+) < 29 || \
+
+176 (
+majÜ1
+è=ð0 && (
+majÜ2
+è=ð29 && (
+mšÜ
+è<ð1)
+
+	)
+
+180 #iâdeà
+TOOL_VERSION_runghc
+
+
+181 
+	#TOOL_VERSION_runghc
+ "8.4.3"
+
+	)
+
+183 #iâdeà
+MIN_TOOL_VERSION_runghc
+
+
+184 
+	#MIN_TOOL_VERSION_runghc
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+185 (
+majÜ1
+) < 8 || \
+
+186 (
+majÜ1
+è=ð8 && (
+majÜ2
+) < 4 || \
+
+187 (
+majÜ1
+è=ð8 && (
+majÜ2
+è=ð4 && (
+mšÜ
+è<ð3)
+
+	)
+
+191 #iâdeà
+TOOL_VERSION_¡r
+
+
+192 
+	#TOOL_VERSION_¡r
+ "2.30"
+
+	)
+
+194 #iâdeà
+MIN_TOOL_VERSION_¡r
+
+
+195 
+	#MIN_TOOL_VERSION_¡r
+(
+majÜ1
+,
+majÜ2
+,
+mšÜ
+) (\
+
+196 (
+majÜ1
+) < 2 || \
+
+197 (
+majÜ1
+è=ð2 && (
+majÜ2
+) < 30 || \
+
+198 (
+majÜ1
+è=ð2 && (
+majÜ2
+è=ð30 && (
+mšÜ
+è<ð0)
+
+	)
+
+201 #iâdeà
+CURRENT_COMPONENT_ID
+
+
+202 
+	#CURRENT_COMPONENT_ID
+ "üacks-0.1.0.0-6k8YiH0v9qZ4d8jWfKxvfd-üacks-‹¡"
+
+	)
+
+204 #iâdeà
+CURRENT_PACKAGE_VERSION
+
+
+205 
+	#CURRENT_PACKAGE_VERSION
+ "0.1.0.0"
+
+	)
+
+	@
+1
+.
+1
+/usr/include
+3
+242
+.stack-work/dist/x86_64-linux/Cabal-2.2.0.1/build/autogen/cabal_macros.h
+.stack-work/dist/x86_64-linux/Cabal-2.2.0.1/build/cracks-exe/autogen/cabal_macros.h
+.stack-work/dist/x86_64-linux/Cabal-2.2.0.1/build/cracks-test/autogen/cabal_macros.h
